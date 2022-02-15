@@ -1,7 +1,7 @@
 ## Olá, eu sou o Josué Nascimento!
 <div align="center">
   <a href="https://www.linkedin.com/in/josu%C3%A9-da-silva-nascimento-49a10a110/">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Josue-SN&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" width="100em" src="https://github-readme-stats.vercel.app/api?username=Josue-SN&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josue-SN&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
